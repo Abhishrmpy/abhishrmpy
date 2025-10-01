@@ -1,6 +1,8 @@
+![MasterHead](https://github.com/Abhishrmpy/abhishrmpy/blob/main/banner.gif?raw=true)
 <div align="center">
+<img align="right" width="250" src="https://github.com/Abhishrmpy/abhishrmpy/blob/main/right%20image.gif?raw=true">
   
-# Hi 👋, I'm Abhishek
+# Hi 👋, I'm Abhishek Sharma !
 
 ### Teaching machines how to think!
 
