@@ -98,7 +98,7 @@ Web Development
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishrmpy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6" alt="GitHub Stats" height="170"/>
