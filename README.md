@@ -4,7 +4,7 @@
    -->
  Hi 👋, I'm Abhishek Sharma!
 
- Teaching machines how to think!.....
+ Teaching machines how to think!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishrmpy&label=Profile%20views&color=7aa2f7&style=flat)
 
