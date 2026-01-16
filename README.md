@@ -37,7 +37,7 @@
   <a href="https://medium.com/@abhishrmpy" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.youtube.com/c/zavhi" target="_blank">
+  <a href="https://www.youtube.com/c/abhishrmpy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://instagram.com/abhishrm.py" target="_blank">
