@@ -12,7 +12,7 @@
 
 - About Me.
 
--  Currently working on **open-source ML projects and hackathon ideas**
+-  Currently working on open-source Backend projects and hackathon ideas
 -  Learning **machine learning stacks in depth — from data preprocessing to model deployment**
 -  Looking to collaborate on **building intelligent systems that solve real-world problems**
 -  Seeking help with **improving collaboration in open-source communities**
