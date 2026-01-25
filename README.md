@@ -4,13 +4,13 @@
    -->
  Hi 👋, I'm Abhishek Sharma!
 
- BACKEND DEVELOPER (Learning)...........
+ BACKEND DEVELOPER (Learning).....
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishrmpy&label=Profile%20views&color=7aa2f7&style=flat)
 
 </div>
 
-- About Me....................
+- About Me............
 
 -  Currently working on open-source Backend projects and hackathon ideas
 -  Learning **machine learning stacks in depth — from data preprocessing to model deployment
@@ -22,7 +22,7 @@
 
 ---
 
- 🌐 Connect With Me............
+ 🌐 Connect With Me.....
 
 <p align="center">
   <a href="https://x.com/abhishrmpy" target="_blank">
