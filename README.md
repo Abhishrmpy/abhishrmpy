@@ -22,7 +22,7 @@ ABOUT ME ..
 
 
 
- 🌐 Connect With Me.....
+ 🌐 Connect With Me..........
 
 <p align="center">
   <a href="https://x.com/abhishrmpy" target="_blank">
