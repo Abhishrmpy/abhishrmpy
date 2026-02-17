@@ -10,7 +10,7 @@
 
 </div>
 
-ABOUT ME ..
+ABOUT ME .
 
 -  Currently working on open-source Backend projects and hackathon ideas
 -  Learning **machine learning stacks in depth — from data preprocessing to model deployment
@@ -22,7 +22,7 @@ ABOUT ME ..
 
 
 
- 🌐 Connect With Me..........
+ 🌐 Connect With Me.
 
 <p align="center">
   <a href="https://x.com/abhishrmpy" target="_blank">
