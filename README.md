@@ -18,7 +18,7 @@ ABOUT ME ......
 -  Seeking help with improving collaboration in open-source communities
 -  Regular writer at [Medium](https://medium.com/@abhishrmpy)
 -  Reach me at abhishrmpy127@gmail.com
--  Fun fact: The first "bug" in computing was an actual moth stuck in a relay!
+-  Fun fact: The first "bug" in computing was an actual moth stuck in a relay!......
 
 
 
